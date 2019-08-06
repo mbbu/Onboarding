@@ -1,13 +1,13 @@
 # Welcome!!! Karibu!!
 
-This repository contains the onboarding resources and readings that are recommended for when you join the Bioinformatics Group at the Molecular Biology and Bioinformatics Unit.
+This repository contains the onboarding resources and readings that are recommended for when you join the Bioinformatics Group at the Molecular Biology and Bioinformatics Unit, *icipe*.
 
-In this repository, you will find our code of conduct, and the first steps you'll take as you join our team. 
+In this repository, you will find our code of conduct, and the first steps you'll take as you join our group. 
 
 ## Bioinformatics Gropo Vision
-**Mission (purpose):** To lead and support cutting-edge bioinformatics research and data management at icipe.
+**Mission (purpose):** To lead and support cutting-edge bioinformatics research and data management at *icipe*.
 
-**Vision (Picture):** To become a vibrant, productive, innovative, and flexible bioinformatics training, research and data management hub
+**Vision (Picture):** To become a vibrant, productive, innovative, and flexible bioinformatics training, research and data management hub.
 
 **Values:**
 - Integrity
