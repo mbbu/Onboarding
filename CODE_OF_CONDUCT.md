@@ -3,7 +3,7 @@
 ## Welcome!! Karibu
 We are excited to have you on board. 
 
-#### The following document has been adapted from the Freeman Lab Manifesto, the Klassen Lab Mentoring Expectations for Graduate Students, and the [Kirstie Withaker Lab Code of Conduct](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md). 
+*The following document has been adapted from the Freeman Lab Manifesto, the Klassen Lab Mentoring Expectations for Graduate Students, and the [Kirstie Withaker Lab Code of Conduct](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/CODE_OF_CONDUCT.md).*
 
 ## The Bioinformatics Group at MBBU is committed to an harassment-free policy
 We value the participation of every member of our community and want to ensure that every member has enjoyable and fulfilling learning and working experience. Accordingly, everyone who participates in any Bioinformatics Group project is expected to show respect and courtesy to other members at all time.
