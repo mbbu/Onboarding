@@ -4,7 +4,7 @@ We are excited to have you onboard :tada: :boom::open_hands:
 
 In this repository, you will find resources and information to get you up to speed with our culture at the Bioinformatics Group at the Molecular Biology and Bioinformatics Unit, *icipe*. These resources include our code of conduct and the first steps you'll take as you join our group. 
 
-## Bioinformatics Group Vision
+## Bioinformatics Team Vision
 **Mission (purpose):** To lead and support cutting-edge bioinformatics research and data management at *icipe*.
 
 **Vision (Picture):** To become a vibrant, productive, innovative, and flexible bioinformatics training, research and data management hub.
